@@ -3,4 +3,4 @@ Repository for kodi adult plugins
 
 Status: Building
 
-In the meantime use https://githug.com/xbmc-adult/xbmc-adult/wiki
+In the meantime use https://github.com/xbmc-adult/xbmc-adult/wiki
